@@ -1,2 +1,2 @@
 # Amazon
-This is a Web Designing Project . I have design a same webpage like amazon.
+This is a Web Designing Project . I have designed a same webpage like amazon.
