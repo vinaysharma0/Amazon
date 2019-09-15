@@ -1,0 +1,38 @@
+.pull-up{
+    transform: translateY(-250px);
+}
+body{
+    background-color:#EAEDED
+}
+.owl-one img{
+    height:250px;
+}
+.owl-two img{
+    height:150px;
+}
+.owl-one div{
+    /* height:320px; */
+}
+.owl-dots{
+    display: none;
+}
+.title{
+    font-size:20px;
+    display: inline-block;
+}
+.deals{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.look{
+    position: absolute;
+    z-index:1;
+    bottom:0;
+    left:50%;
+    transform: translate(-50%);
+    display:none;
+}
+.owl-two > div:hover .look{
+    display: block;
+}
